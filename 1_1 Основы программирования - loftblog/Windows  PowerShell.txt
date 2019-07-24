@@ -1,0 +1,3 @@
+
+C:\Windows\system32>Call PowerShell -NoProfile -ExecutionPolicy bypass -command "Import-Module 'C:\ProgramData\boxstarter\Boxstarter.Bootstrapper\boxstarter.bootstrapper.psd1';Invoke-Boxstarter -RebootOk -NoPassword:$True"
+

@@ -1,0 +1,33 @@
+Урок 2 - Javascript
+console.log(typeof 24);
+console.log(typeof 24.3);
+
+console.log('LoftBlog'.charAt(4));
+console.log('LoftBlog'.substring(4));
+console.log('LoftBlog'.substring(4,6));
+console.log('LoftBlog'.slice(1));
+console.log('LoftBlog'.substr(2,5));
+
+console.log(typeof true);
+console.log(typeof false);
+console.log(3==3);
+console.log(3==4);
+
+console.log(typeof(15));
+console.log(typeof('Петр Николаевич'));
+console.log(String('152323'));
+console.log(Boolean(45));
+console.log(Number('Петр Николаевич'));
+console.log(Number(true));
+console.log(Number(false));
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+Массив
+var productMiniList = ['lemonade','Coca-Cola'];
+var productList = ['apple','milk','chese',productMiniList,'tea'];
+console.log(productList[0]);
+console.log(productList[3][1]);
+

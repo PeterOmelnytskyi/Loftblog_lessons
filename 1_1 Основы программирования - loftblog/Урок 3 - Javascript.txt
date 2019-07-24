@@ -1,0 +1,3 @@
+var questionName = prompt('Как вас зовут?');
+console.log(questionName);
+
